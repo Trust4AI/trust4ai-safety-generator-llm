@@ -11,7 +11,7 @@ import os
 from openai import OpenAI
 from tavily import TavilyClient
 
-TAVILY_KEY = "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"
+TAVILY_KEY = "your-tavily-key"
 
 class Assistant:
         
